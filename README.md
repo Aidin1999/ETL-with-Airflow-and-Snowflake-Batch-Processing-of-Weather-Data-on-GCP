@@ -28,7 +28,5 @@ This repository contains a set of files that are part of an ETL pipeline designe
 
 Feel free to fork this repository or contribute by providing feedback, enhancements, or new features through pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+\
 
